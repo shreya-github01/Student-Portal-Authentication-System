@@ -1,0 +1,11 @@
+{
+  "name": "auth",
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "bcryptjs": "*",
+    "dotenv": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*"
+  }
+}
